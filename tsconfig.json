@@ -1,0 +1,20 @@
+{
+  "extends": "@react-native/typescript-config",
+  "compilerOptions": {
+     "jsx": "react-jsx",
+     "strict": true,
+     "esModuleInterop": true,
+     /* Visit https://aka.ms/tsconfig.json to read more about this file */
+     /* Completeness */
+     "skipLibCheck": true, /* Skip type checking all .d.ts files. */
+     "ignoreDeprecations": "6.0",
+     "baseUrl": ".",
+     "paths": {
+       "*": [
+         "src/*"
+        ],
+      },
+    },
+  "include": ["**/*.ts", "**/*.tsx"],
+  "exclude": ["**/node_modules", "**/Pods"]
+}
