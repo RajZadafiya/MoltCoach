@@ -169,7 +169,7 @@ All core requirements through **Priority 1, 2, 3, and 4** were completed. Priori
 ## 6. Screen Recording
 
 - **Walkthrough Duration:** ~5 minutes.
-- **Recording Link / Video:** [Screen Recording Video](./walkthrough.mp4)
+- **Recording Link / Video:** [Screen Recording Video](https://drive.google.com/file/d/1a4LkP2yDeko869yQSlqibNa2M_lGpLg0/view?usp=sharing)
 - **Key Scenarios Demonstrated:**
   1. **Authentication Flow:** Client-side validation, logging in with `coach@molt.app`, and session persistence across app kill and relaunch.
   2. **Clients List & Navigation:** Sorting clients alphabetically, pull-to-refresh, and tapping into client progress.
